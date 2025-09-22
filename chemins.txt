@@ -1,2 +1,2 @@
-IUT    ->
+IUT    ->  "U:\tpweb"
 Perso  ->  "C:\Personnel\BUT-2\Développement WEB\TP"

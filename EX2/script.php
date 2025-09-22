@@ -40,13 +40,13 @@ if (isset($_POST['lignes'], $_POST['colonnes'])) {
     }
 
     if (!empty($_POST['ligne_couleur'])) {
-        $ligne_couleur = (int)$_POST['ligne_couleur'] - 1;
+        $ligne_couleur = $_POST['ligne_couleur'] - 1;
     } else {
         $ligne_couleur = -1;
     }
 
     if (!empty($_POST['colonne_couleur'])) {
-        $colonne_couleur = (int)$_POST['colonne_couleur'] - 1;
+        $colonne_couleur = $_POST['colonne_couleur'] - 1;
     } else {
         $colonne_couleur = -1;
     }
