@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <link href="../res/tableau.css" rel="stylesheet">
+    <link href="res/tableau.css" rel="stylesheet">
     <title>Statistiques</title>
 </head>
 <body>

@@ -1,10 +1,10 @@
 table {
-    border-collapse: collapse; /* fusionne les bordures */
-    width: auto; /* ou 100% si tu veux occuper toute la largeur */
+    border-collapse: collapse;
+    width: auto;
 }
 
 th, td {
-    border: 1px solid black; /* bordures simples */
-    padding: 8px;            /* espace intérieur */
-    text-align: center;      /* centre le texte */
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
 }
