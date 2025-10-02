@@ -7,7 +7,7 @@
 
 $filename = "data/data.csv";
 
-echo "<form action='res/action.php' method='post'>
+echo "<form action='action.php' method='post'>
         <label for='FirstName'>First name</label>
         <input type='text' name='FirstName' id='FirstName'>
         <label for='Name'>Name</label>

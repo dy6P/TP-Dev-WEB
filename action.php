@@ -1,5 +1,5 @@
 <?php
-$fp = fopen("../data/data.csv", 'a');
+$fp = fopen("data/data.csv", 'a');
 if(isset($_POST['FirstName'], $_POST['Name'], $_POST['Mail'])) {
     $firstName = $_POST['FirstName'];
     $name = $_POST['Name'];
@@ -9,4 +9,4 @@ if(isset($_POST['FirstName'], $_POST['Name'], $_POST['Mail'])) {
     }
     fclose($fp);
 }
-header("location:../lecture.php");
+header("location: lecture.php");
