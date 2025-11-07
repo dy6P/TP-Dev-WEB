@@ -9,4 +9,4 @@ if(isset($_POST['FirstName'], $_POST['Name'], $_POST['Mail'])) {
     }
     fclose($fp);
 }
-header("location: liste_articles.php");
+header("location: modification.php");

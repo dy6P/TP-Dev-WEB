@@ -1,11 +1,14 @@
-<?php include '../res/header.html'; ?>
+<?php
+include 'res/header.html';
+?>
 </head>
 <title>Articles</title>
 <body>
+<a href="connexion.php">Connexion</a><br><br>
 
-<a href="accueil.html">Acceuil</a><br><br>
+<a href="accueil.php">Acceuil</a><br><br>
 
-<a href="liste_articles.php">Liste</a><br><br>
+<a href="modification.php">Liste</a><br><br>
 
 <?php
 $host = "localhost";
@@ -39,32 +42,27 @@ else {
                 echo "<td>".$row["prixu"]."</td>";
                 echo "<td>".$row["quantite"]."</td>";
                 echo "<td>".$row["ref"]."</td>";
-                echo "<td><form action='' method='get'><input type='submit' name='modifier' id='modifier' value='Modifier'></form></td>";
+                echo sprintf("<td><a href='modification.php?ref=%s'>Modifier</td>", $row["ref"]);
                 echo "</tr>";
             }
         }
         echo "</table>";
 
-        if (isset($_GET['modifier'])) {
+        if (isset($_GET['ref'])) {
             echo "<br>";
-            echo "<form action='' method='get'>
+            echo "<form action='' method='post'>
             <label for='prixu'>Prix unitaire</label>
-            <input type='number' name='prixu' id='prixu'>
+            <input type='number' name='prixu' id='prixu' step='0.01' min='0'>
             <label for='quantite'>Quantité</label>
             <input type='number' name='quantite' id='quantite'>
             <input type='submit' name='valider' id='valider' value='Modifier'>
             </form><br><br>";
-            if (isset($_GET['valider'])) {
-                $pu = $_GET['prixu'];
-                $qu = $_GET['quantite'];
-                if (($pu >= 0 && $qu >= 0) && (is_int($qu))){
-                    $requete = "UPDATE article SET " . $row["prixu"] . " = " . $pu . ", " . $row["quantite"] . " = " . $qu . " WHERE " . $row["ref"] . "=12348;";
-                    mysqli_query($connect, $requete);
-                    header("location:liste_articles.php");
-                }
-                else {
-                    header("location:liste_articles.php");
-                }
+            if (isset($_POST['valider'])) {
+                $sql = "update article set prixu = " . $_POST['prixu'] . ", quantite = " . $_POST['quantite'] . " where ref = " . $_GET["ref"];
+                $stmt = mysqli_prepare($connect, $sql);
+                mysqli_stmt_bind_param($stmt, "dii", $_POST['prixu'], $_POST['quantite'], $_GET["ref"]);
+                mysqli_stmt_execute($stmt);
+                header("location:modification.php");
             }
         }
     }
@@ -72,6 +70,6 @@ else {
 
 mysqli_close($connect);
 
-include '../res/footer.html'; ?>
+include 'res/footer.html'; ?>
 
 

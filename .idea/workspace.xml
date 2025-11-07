@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc18604b-54a5-41eb-bb2c-5042c3f62386" name="Changes" comment="Commit.">
-      <change afterPath="$PROJECT_DIR$/tp_articles/accueil.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp_articles/liste_articles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML/voiliers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp_articles/action.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp_articles/connexion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp_articles/res/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp_articles/res/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp_articles/res/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/action.php" beforeDir="false" afterPath="$PROJECT_DIR$/action.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/res/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp_articles/accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/tp_articles/accueil.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp_articles/liste_articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/tp_articles/modification.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +44,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/dy6P/TP-Dev-WEB&quot;,
-    &quot;accountId&quot;: &quot;ac6fa6a2-8545-47b3-8081-551b26c23721&quot;
+    &quot;accountId&quot;: &quot;d38ae551-a02b-415e-8c44-e0245ba907bf&quot;
   }
 }</component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:/tools/php83/php.exe" />
@@ -52,24 +57,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;U:/tpweb1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "PHP Script.voiliers.php.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "U:/tpweb1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="U:\tpweb1\tp_articles\res" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="U:\tpweb1\tp_articles\res" />
       <recent name="U:\tpweb1\Users" />
       <recent name="U:\tpweb1" />
     </key>
@@ -77,8 +87,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-PS-252.26199.163" />
-        <option value="bundled-php-predefined-a98d8de5180a-f0a8ef430dfa-com.jetbrains.php.sharedIndexes-PS-252.26199.163" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PS-252.26830.95" />
+        <option value="bundled-php-predefined-a98d8de5180a-9b563d34894c-com.jetbrains.php.sharedIndexes-PS-252.26830.95" />
       </set>
     </attachedChunks>
   </component>
@@ -93,7 +103,9 @@
       <workItem from="1758975070269" duration="6000" />
       <workItem from="1759391299551" duration="7814000" />
       <workItem from="1759995415110" duration="6860000" />
-      <workItem from="1760601908189" duration="6104000" />
+      <workItem from="1760601908189" duration="6225000" />
+      <workItem from="1761203612650" duration="6060000" />
+      <workItem from="1762513363340" duration="1381000" />
     </task>
     <task id="LOCAL-00001" summary="Commit.">
       <option name="closed" value="true" />
@@ -135,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760003524759</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commit.">
+      <option name="closed" value="true" />
+      <created>1760608145736</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760608145736</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

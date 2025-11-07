@@ -5,9 +5,11 @@
     <title>Accueil</title>
 </head>
 <body>
-<a href="accueil.html">Acceuil</a><br><br>
+<a href="connexion.php">Connexion</a><br><br>
 
-<a href="liste_articles.php">Liste</a><br><br>
+<a href="accueil.php">Acceuil</a><br><br>
+
+<a href="modification.php">Liste</a><br><br>
 
 <p>
 
