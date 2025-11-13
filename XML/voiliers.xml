@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE voiliers SYSTEM "voiliers.dtd">
 <voiliers transat="Café 2025">
   <voilier classe="Class40" annee="2021">
     <nom>#EMPOWHER</nom>
