@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE voiliers SYSTEM "voiliers.dtd">
 <voiliers transat="Café 2025">
+
+    <mixte>Les 25 et 26 octobre 2025, soixante-quatorze voiliers ont pris le départ de la dix-septième édition de la Route du Café.
+    Créée en 1993, cette course transatlantique en double relira cette année <geo>Le Havre</geo> à <geo>Fort-de-France</geo> en <geo>Martinique</geo>.
+    Selon leur taille et leur configuration (monocoque ou multicoque), les voiliers seront répartis en quatre catégories :
+    les <cat>Class40</cat>, les <cat>IMOCA</cat>, les <cat>Ocean Fifty</cat> et les <cat>Ultim</cat>.</mixte>
+
   <voilier classe="Class40" annee="2021">
     <nom>#EMPOWHER</nom>
     <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-06/empowher.jpg.webp?itok=Euo0m7Ve</photo>

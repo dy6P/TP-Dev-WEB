@@ -1,4 +1,4 @@
-<!ELEMENT voiliers (voilier*)>
+<!ELEMENT voiliers (mixte, voilier+)>
     <!ATTLIST voiliers
         transat CDATA #REQUIRED
     >
@@ -15,3 +15,6 @@
         age CDATA #REQUIRED
     >
 <!ELEMENT origine (#PCDATA)>
+<!ELEMENT geo (#PCDATA)>
+<!ELEMENT cat (#PCDATA)>
+<!ELEMENT mixte (#PCDATA | geo | cat)*>

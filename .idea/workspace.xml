@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc18604b-54a5-41eb-bb2c-5042c3f62386" name="Changes" comment="Commit.">
-      <change afterPath="$PROJECT_DIR$/XML/validation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XML/voiliers.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XML/voiliers.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/XML/voiliers.dtd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/XML/voiliers.php" beforeDir="false" afterPath="$PROJECT_DIR$/XML/voiliers.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,12 +33,12 @@
     &quot;assignee&quot;: &quot;dy6P&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/dy6P/TP-Dev-WEB&quot;,
-    &quot;accountId&quot;: &quot;d38ae551-a02b-415e-8c44-e0245ba907bf&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dy6P/TP-Dev-WEB",
+    "accountId": "3d7f2761-4891-4d24-a032-8d3329313502"
   }
-}</component>
+}]]></component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\tools\php83\php.exe" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -104,7 +102,7 @@
       <workItem from="1760601908189" duration="6225000" />
       <workItem from="1761203612650" duration="6060000" />
       <workItem from="1762513363340" duration="1636000" />
-      <workItem from="1763042500774" duration="6179000" />
+      <workItem from="1763042500774" duration="7884000" />
     </task>
     <task id="LOCAL-00001" summary="Commit.">
       <option name="closed" value="true" />
@@ -162,7 +160,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762514949177</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit.">
+      <option name="closed" value="true" />
+      <created>1763049790027</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763049790027</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Commit.">
+      <option name="closed" value="true" />
+      <created>1763050259358</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1763050259358</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
