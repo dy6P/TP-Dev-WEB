@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc18604b-54a5-41eb-bb2c-5042c3f62386" name="Changes" comment="Commit.">
-      <change afterPath="$PROJECT_DIR$/XML/voiliers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp_articles/action.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp_articles/connexion.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp_articles/res/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp_articles/res/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp_articles/res/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML/voiliers.dtd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/action.php" beforeDir="false" afterPath="$PROJECT_DIR$/action.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp_articles/accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/tp_articles/accueil.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp_articles/liste_articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/tp_articles/modification.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XML/voiliers.php" beforeDir="false" afterPath="$PROJECT_DIR$/XML/voiliers.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="PHP File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -47,7 +41,7 @@
     &quot;accountId&quot;: &quot;d38ae551-a02b-415e-8c44-e0245ba907bf&quot;
   }
 }</component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:/tools/php83/php.exe" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\tools\php83\php.exe" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -60,9 +54,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.voiliers.php.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "PHP Script.validation.php.executor": "Run",
     "PHP Script.voiliers.php.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "U:/tpweb1",
@@ -87,11 +84,12 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PS-252.26830.95" />
-        <option value="bundled-php-predefined-a98d8de5180a-9b563d34894c-com.jetbrains.php.sharedIndexes-PS-252.26830.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PS-242.21829.154" />
+        <option value="bundled-php-predefined-a98d8de5180a-4d9f4c849d09-com.jetbrains.php.sharedIndexes-PS-242.21829.154" />
       </set>
     </attachedChunks>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bc18604b-54a5-41eb-bb2c-5042c3f62386" name="Changes" comment="" />
@@ -105,7 +103,8 @@
       <workItem from="1759995415110" duration="6860000" />
       <workItem from="1760601908189" duration="6225000" />
       <workItem from="1761203612650" duration="6060000" />
-      <workItem from="1762513363340" duration="1381000" />
+      <workItem from="1762513363340" duration="1636000" />
+      <workItem from="1763042500774" duration="6179000" />
     </task>
     <task id="LOCAL-00001" summary="Commit.">
       <option name="closed" value="true" />
@@ -155,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760608145736</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commit.">
+      <option name="closed" value="true" />
+      <created>1762514949177</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762514949177</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

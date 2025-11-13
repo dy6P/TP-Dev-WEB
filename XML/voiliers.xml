@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="utf-8"?>
+<voiliers transat="Café 2025">
+  <voilier classe="Class40" annee="2021">
+    <nom>#EMPOWHER</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-06/empowher.jpg.webp?itok=Euo0m7Ve</photo>
+    <skipper age="37">
+      <origine>Dublin</origine>
+      <nom>Pamela LEE</nom>
+    </skipper>
+    <skipper age="37">
+      <origine>États-Unis d'Amérique</origine>
+      <nom>Jay THOMPSON</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Imoca" annee="2022">
+    <nom>11th Hour Racing</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/11TH%20HOUR%20RACING%20-%20Imoca.jpg.webp?itok=FtiSUJ_a</photo>
+    <skipper age="37">
+      <origine>Trieste</origine>
+      <nom>Francesca CLAPCICH </nom>
+    </skipper>
+    <skipper age="31">
+      <origine>Hampshire</origine>
+      <nom> Will HARRIS</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Imoca" annee="2015">
+    <nom>4CAD - LA MIE CÂLINE</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/4%20CAD%20-%20LA%20MIE%20CALINE%20-%20Imoca.jpg.webp?itok=70FnGUcH</photo>
+    <skipper age="53">
+      <origine> Les Sables d'Olonne</origine>
+      <nom>Arnaud BOISSIÈRES</nom>
+    </skipper>
+    <skipper age="35">
+      <origine>Les Sables d'Olonne</origine>
+      <nom>Benjamin DUTREUX </nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Ultim" annee="2017">
+    <nom>ACTUAL ULTIM 4</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/ACTUAL%20ULTIM%204%20%C2%A9Ronan_Gladu.jpg.webp?itok=iEu877I4</photo>
+    <skipper age="40">
+      <origine>Saint-Brieuc</origine>
+      <nom>Anthony MARCHAND</nom>
+    </skipper>
+    <skipper age="38">
+      <origine>Lorient</origine>
+      <nom>Julien VILLION</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2019">
+    <nom>AIRVANCE OCÉAN TERÉLIAN</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-10/AIRVANCE%20OC%C3%89LIAN%20TER%C3%89LIAN%20-%20Class40.jpg.webp?itok=HVxv8_z7</photo>
+    <skipper age="26">
+      <origine>calais</origine>
+      <nom>Théa KHELIF</nom>
+    </skipper>
+    <skipper age="43">
+      <origine>Havre</origine>
+      <nom>Marion ENGELHARD</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2022">
+    <nom>ALDERAN</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-06/alderan.jpg.webp?itok=1JaFi1pB</photo>
+    <skipper age="32">
+      <origine>Paris</origine>
+      <nom>Sasha LANIECE</nom>
+    </skipper>
+    <skipper age="34">
+      <origine>Kiel</origine>
+      <nom>Sanni BEUCKE</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Imoca" annee="2023">
+    <nom>ALLAGRANDE MAPEI</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-08/ALLAGRANDE%20MAPEI-Imoca.jpg.webp?itok=FypE7x1c</photo>
+    <skipper age="34">
+      <origine>Milan</origine>
+      <nom>Ambrogio BECCARIA</nom>
+    </skipper>
+    <skipper age="44">
+      <origine>Saint-Pol-sur-Mer</origine>
+      <nom>Thomas RUYANT</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2023">
+    <nom>ALTERNATIVE SAILING- LES CONSTRUCTIONS</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-06/alternative_sailing_-_les_constructions_de_belon.jpg.webp?itok=PYkuBV7v</photo>
+    <skipper age="32">
+      <origine>Brest</origine>
+      <nom>Guillaume L'HOSTIS</nom>
+    </skipper>
+    <skipper age="40">
+      <origine>Chartres</origine>
+      <nom>Antoine LE MANCHEC</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2022">
+    <nom>AMARRIS</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-06/amarris.jpg.webp?itok=TPlQAkao</photo>
+    <skipper age="35">
+      <origine>Montpellier</origine>
+      <nom>Achille NEBOUT</nom>
+    </skipper>
+    <skipper age="50">
+      <origine>Concarneau</origine>
+      <nom>Gildas MAHÉ</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Imoca" annee="2025">
+    <nom>ASSOCIATION PETITS PRINCES - QUEGUINER</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/ASSOCIATION%20PETITS%20PRINCES%20-%20QUEGUINER%20-%20Imoca%20-%20%C2%A9Romain%20mari.jpg.webp?itok=ynOlajzQ</photo>
+    <skipper age="30">
+      <origine>Morlaix</origine>
+      <nom>Elodie BONAFOUS</nom>
+    </skipper>
+    <skipper age="51">
+      <origine>Saint-Brieuc</origine>
+      <nom>Yann ELIES</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2016">
+    <nom>BELCO-CEC</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-06/cec_belco.jpg.webp?itok=QyvjClZA</photo>
+    <skipper age="36">
+      <origine>Beauvais</origine>
+      <nom>Louis MAYAUD</nom>
+    </skipper>
+    <skipper age="43">
+      <origine>Harfleu</origine>
+      <nom>Alexandre BELLANGÉ</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2024">
+    <nom>BLEU BLANC PLANETE LOCATION</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-06/bleu_blanc_planete_location.jpg.webp?itok=Vi1QCMTW</photo>
+    <skipper age="37">
+      <origine>Saint-Malo</origine>
+      <nom>Quentin LE NABOUR</nom>
+    </skipper>
+    <skipper age="52">
+      <origine>Neuilly-sur-Seine</origine>
+      <nom>Thierry CHABAGNY</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Imoca" annee="2020">
+    <nom>BUREAU VALLÉE</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-09/BUREAU%20VALL%C3%89E%20-%20IMOCA%20%40%20Benjamin%20Sellier_wind4production.com_.png.webp?itok=ML97VaFk</photo>
+    <skipper age="40">
+      <origine>Evry</origine>
+      <nom>Louis BURTON</nom>
+    </skipper>
+    <skipper age="30">
+      <origine>Saint Brieuc</origine>
+      <nom>Clément COMMAGNAC</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Imoca" annee="2011">
+    <nom>CAFÉ JOYEUX</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-09/CAFE%20JOYEUX%20-%20IMOCA.jpeg.webp?itok=ompeE8Fo</photo>
+    <skipper age="34">
+      <origine>Paris</origine>
+      <nom>Nicolas D'ESTAIS</nom>
+    </skipper>
+    <skipper age="37">
+      <origine>Zurich - Suisse</origine>
+      <nom>Simon KOSTER</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2022">
+    <nom>CENTRAKOR HIRSH</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-10/CENTRAKOR%20-%20class40.jpg.webp?itok=VOa9mD6x</photo>
+    <skipper age="44">
+      <origine>Hyeres</origine>
+      <nom>Mikael MERGUI</nom>
+    </skipper>
+    <skipper age="Non référencé">
+      <origine>Saint Vivien de Médoc</origine>
+      <nom>Kéni PIPEROL</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Imoca" annee="2022">
+    <nom>CHARAL</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2023-10/231015_mlr_charal_155.jpg.webp?itok=y-sfi3H_</photo>
+    <skipper age="49">
+      <origine>Landivisiau</origine>
+      <nom>Jérémie BEYOU</nom>
+    </skipper>
+    <skipper age="38">
+      <origine>Saint-Paul (La Réunion)</origine>
+      <nom>Morgan LAGRAVIÈRE</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Imoca" annee="2010">
+    <nom>COUP DE POUCE</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-09/COUP%20DE%20POUCE%20-%20Imoca.jpg.webp?itok=dTtCLDKU</photo>
+    <skipper age="58">
+      <origine>Rouen</origine>
+      <nom>Manuel COUSIN</nom>
+    </skipper>
+    <skipper age="44">
+      <origine>BIARRITZ</origine>
+      <nom>Jean-Baptiste DARAM</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2020">
+    <nom>CROSSCALL</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-06/crosscall.jpg.webp?itok=kfXQqKpy</photo>
+    <skipper age="42">
+      <origine>SERVOZ</origine>
+      <nom>Aurélien DUCROZ</nom>
+    </skipper>
+    <skipper age="42">
+      <origine>Villeneuve Saint-Georges</origine>
+      <nom>Jonathan CHODKIEWIEZ</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2022">
+    <nom>DÉFI SOLIDAIRE AVEC ELLYE ET L'ARCHE</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-08/DEFI%20SOLIDAIRE%20AVEC%20ELLYE%20ET%20L%27ARCHE%20-%20Class40.jpg.webp?itok=DWVmQli6</photo>
+    <skipper age="49">
+      <origine>Granville</origine>
+      <nom>Nicolas JOSSIER</nom>
+    </skipper>
+    <skipper age="38">
+      <origine>Rouen</origine>
+      <nom>Sophie FAGUET</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Ocean Fifty" annee="2025">
+    <nom>EDENRED 5</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-09/EDENRED-Ocean%20Fifty.JPG.webp?itok=8YErlYtU</photo>
+    <skipper age="53">
+      <origine>Plouharnel</origine>
+      <nom>Emmanuel LE ROCH</nom>
+    </skipper>
+    <skipper age="23">
+      <origine>Saint-Philibert</origine>
+      <nom>Basile BOURGNON</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2025">
+    <nom>EKINOX</nom>
+    <photo>https://media.ouest-france.fr/v1/pictures/MjAyNTEwNWYyNTQ0MDhlNGM4ZWYxZjQyZjhhNzZhM2FjYjdiODU?width=375&amp;focuspoint=50%2C25&amp;cropresize=1&amp;client_id=bpeditorial&amp;sign=499ba4fa1a99e1561b714f62b4a42b5c2cd3f1524d77937b14dd244e4deab2f7</photo>
+    <skipper age="54">
+      <origine>Argenteuil</origine>
+      <nom>Benoît SINEAU</nom>
+    </skipper>
+    <skipper age="33">
+      <origine>Milan</origine>
+      <nom>Alberto RIVA</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2022">
+    <nom>ENGIE - DESSINE-MOI LA HIGH-TECH</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-06/cap_pour_elles_avec_engie.jpg.webp?itok=VO6lvHxu</photo>
+    <skipper age="30">
+      <origine>Palma de Mallorca</origine>
+      <nom>Aina BAUZA ROIG</nom>
+    </skipper>
+    <skipper age="35">
+      <origine>Saint-Renan</origine>
+      <nom>Axelle PILLAIN</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2014">
+    <nom>ESATCO</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-09/ESATCO%20-%20Class40.jpeg.webp?itok=m_bFqoGQ</photo>
+    <skipper age="42">
+      <origine>Nantes</origine>
+      <nom>Nicolas GUIBAL</nom>
+    </skipper>
+    <skipper age="24">
+      <origine>Corée du Sud</origine>
+      <nom>Gauthier BRIL</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Imoca" annee="2007">
+    <nom>FDJ UNITED - WEWISE</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/FDJ%20UNITED%20-%20WEWISE%20-%20Imoca.png.webp?itok=GaBX3SCf</photo>
+    <skipper age="47">
+      <origine>VANNES</origine>
+      <nom>Fabrice AMEDEO</nom>
+    </skipper>
+    <skipper age="Non réferencé">
+      <origine>Kiel - Allemagne</origine>
+      <nom>Andreas BADEN</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Imoca" annee="2006">
+    <nom>FIVES GROUP - LANTANA ENVIRONNEMENT</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-06/five_group_lantana_environnement.jpg.webp?itok=tH8N8K7o</photo>
+    <skipper age="42">
+      <origine>Cherbourg</origine>
+      <nom>Louis DUC</nom>
+    </skipper>
+    <skipper age="40">
+      <origine>Chiba</origine>
+      <nom>Masa SUZUKI</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Imoca" annee="2015">
+    <nom>FORTINET - BEST WESTERN</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-08/FORTINET-BEST%20WESTERN-Imoca.jpg.webp?itok=E7G1vQV2</photo>
+    <skipper age="48">
+      <origine>Paris</origine>
+      <nom>Romain ATTANASIO</nom>
+    </skipper>
+    <skipper age="41">
+      <origine>Cancale</origine>
+      <nom>Maxime SOREL</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2023">
+    <nom>INFLUENCE2</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/INFLUENCE2-Class40.jpg.webp?itok=VJ2QHLkG</photo>
+    <skipper age="48">
+      <origine>Rome</origine>
+      <nom>Andrea FORNARO</nom>
+    </skipper>
+    <skipper age="27">
+      <origine>Rome</origine>
+      <nom>Alessandro TORRESANI</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Imoca" annee="2021">
+    <nom>INITIATIVES COEUR</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/INITIATIVES%20COEUR-IMOCA.jpg.webp?itok=CVQDdA2K</photo>
+    <skipper age="51">
+      <origine>Lorlent</origine>
+      <nom>Sam DAVIES</nom>
+    </skipper>
+    <skipper age="24">
+      <origine>Pont l'Abbé D'arnoult</origine>
+      <nom>Violette DORANGE</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2021">
+    <nom>INLAND ROOTS OCEAN SOUL</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-06/inland_roots_ocean_soul.jpg.webp?itok=YokotH2W</photo>
+    <skipper age="46">
+      <origine>Louny</origine>
+      <nom>Milan KOLACEK</nom>
+    </skipper>
+    <skipper age="45">
+      <origine>Amiens</origine>
+      <nom>Pierre BRASSEUR</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2011">
+    <nom>INNOVAD.GROUP - XLG</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/INNOVAD.GROUP%20-%20XLG%20-%20Class40.jpg.webp?itok=QNNnhSc4</photo>
+    <skipper age="40">
+      <origine>Anderlecht</origine>
+      <nom>Jérôme DELIRE</nom>
+    </skipper>
+    <skipper age="38">
+      <origine>Uccle</origine>
+      <nom>Caroline DIEU</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Ocean Fifty" annee="2023">
+    <nom>INTER INVEST</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-09/INTER%20INVEST%20%20-%20OCEAN%20FIFTY.jpg.webp?itok=vp5doKgS</photo>
+    <skipper age="35">
+      <origine>Pornichet</origine>
+      <nom>Matthieu PERRAUT</nom>
+    </skipper>
+    <skipper age="32">
+      <origine>Pornichet</origine>
+      <nom>Jean-Baptiste GELLEE</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2020">
+    <nom>INTERACTION</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-06/interaction.jpg.webp?itok=P3vGyCpn</photo>
+    <skipper age="59">
+      <origine>Arcachon</origine>
+      <nom>Yannig LIVORY</nom>
+    </skipper>
+    <skipper age="56">
+      <origine>Arcachon</origine>
+      <nom>Erwan LIVORY</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Ocean Fifty" annee="2023">
+    <nom>KOESIO</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/KOESIO%20-%20Ocean%20Fifty.jpg.webp?itok=HyIGFE15</photo>
+    <skipper age="51">
+      <origine>La Trinité sur Mer</origine>
+      <nom>Erwan LE ROUX</nom>
+    </skipper>
+    <skipper age="33">
+      <origine>La Ciotat</origine>
+      <nom>Audrey OGEREAU</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2018">
+    <nom>L'AGENCE TELECOM - SOTRAPLANT</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-06/l_agence_telecom_-_sotraplant.png.webp?itok=TpV_hm5B</photo>
+    <skipper age="51">
+      <origine>Montpellier</origine>
+      <nom>Matthieu FOULQUIER-GAZAGNES</nom>
+    </skipper>
+    <skipper age="34">
+      <origine>Nice </origine>
+      <nom>Gildas BEAUCHAMPS</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Ocean Fifty" annee="2023">
+    <nom>Lazare x Hellio</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/lazare.jpg.webp?itok=uLH5UkxL</photo>
+    <skipper age="28">
+      <origine>Plouhinec</origine>
+      <nom>Erwan LE DRAOULEC</nom>
+    </skipper>
+    <skipper age="36">
+      <origine>Locmiquelic</origine>
+      <nom>Tanguy LE TURQUAIS</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Ocean Fifty" annee="2009">
+    <nom>LE RIRE MÉDECIN - LAMOTTE</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-08/LE%20RIRE%20MEDECIN%20-%20LAMOTTE%20-%20Ocean%20Fifty%202.png.webp?itok=DT3puNTP</photo>
+    <skipper age="39">
+      <origine>Saint Malo</origine>
+      <nom>Luke BERRY</nom>
+    </skipper>
+    <skipper age="38">
+      <origine>Tours </origine>
+      <nom>Antoine JOUBERT</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2023">
+    <nom>LEGALLAIS</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-06/legallais.jpg.webp?itok=PZpSr1YI</photo>
+    <skipper age="41">
+      <origine>Larmor Plage</origine>
+      <nom>Fabien DELAHAYE</nom>
+    </skipper>
+    <skipper age="44">
+      <origine>Nantes</origine>
+      <nom>Pierre LEBOUCHER</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2024">
+    <nom>LES INVINCIBLES</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-09/LES%20INVINCIBLES%20-%20Class40.jpg.webp?itok=agFVeXD5</photo>
+    <skipper age="31">
+      <origine>Paris</origine>
+      <nom>William MATHELIN-MOREAUX</nom>
+    </skipper>
+    <skipper age="40">
+      <origine>Venise</origine>
+      <nom>Pietro LUCIANI</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Imoca" annee="2025">
+    <nom>LES P'TITS DOUDOUS</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/LES%20P%27TITS%20DOUDOUS%20-%20IMOCA.jpg.webp?itok=yNe0s0VI</photo>
+    <skipper age="50">
+      <origine>Nantes</origine>
+      <nom>Armel TRIPON</nom>
+    </skipper>
+    <skipper age="46">
+      <origine>Ploemeur</origine>
+      <nom>Tanguy LEGLATIN&#13;</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2025">
+    <nom>MACCAFERRI FUTURA</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/MACCAFERRI%20FUTURA%20-%20Class40.jpg.webp?itok=a6jXdbTx</photo>
+    <skipper age="30">
+      <origine>Bologne</origine>
+      <nom>Luca ROSETTI</nom>
+    </skipper>
+    <skipper age="28">
+      <origine>Genova</origine>
+      <nom>Matteo SERICANO&#13;</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Imoca" annee="2023">
+    <nom>MACIF SANTÉ PRÉVOYANCE</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-10/MACIF%20SANTE%20PREVOYANCE%20-%20Imoca.jpg.webp?itok=_bFnCliH</photo>
+    <skipper age="36">
+      <origine>Bristol </origine>
+      <nom>Sam GOODCHILD </nom>
+    </skipper>
+    <skipper age="32">
+      <origine>Tours </origine>
+      <nom>Loïs BERREHAR</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Ultim" annee="2022">
+    <nom>MARTINIQUE HORIZON</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-09/MAXI%20BANQUE%20POPULAIRE%20XI%20-%20ULTIM.jpg.webp?itok=va562IiQ</photo>
+    <skipper age="48">
+      <origine>Lorient </origine>
+      <nom>Armel LE CLÉAC'H</nom>
+    </skipper>
+    <skipper age="50">
+      <origine>Lorient </origine>
+      <nom>Sébastien JOSSE</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2012">
+    <nom>MAXI BANQUE POPULAIRE XI</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-08/MARTINIQUE%20HORIZON%20-%20CLASS40.jpg.webp?itok=6tHUoQtS</photo>
+    <skipper age="40">
+      <origine>Sainte-Luce</origine>
+      <nom>Jean-Yves AGLAE</nom>
+    </skipper>
+    <skipper age="37">
+      <origine>Le Lamentin</origine>
+      <nom>Moane MANGATTALE</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Ocean Fifty" annee="Non réferencé">
+    <nom>MON BONNET ROSE</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-06/mon_bonnet_rose.jpg.webp?itok=ltiJYsvS</photo>
+    <skipper age="45">
+      <origine>Marseille </origine>
+      <nom>Laurent BOURGUES</nom>
+    </skipper>
+    <skipper age="45">
+      <origine>Fontenay aux roses</origine>
+      <nom>Arnaud VASSEUR</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Imoca" annee="2007">
+    <nom>MSIG EUROPE</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-09/MSIG%20EUROPE%20-%20IMOCA.jpg.webp?itok=nSRyE79a</photo>
+    <skipper age="42">
+      <origine>Auckland </origine>
+      <nom>Conrad COLMAN</nom>
+    </skipper>
+    <skipper age="38">
+      <origine>Cavaillon</origine>
+      <nom>Mathieu BLANCHARD</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Imoca" annee="2007">
+    <nom>NEW EUROPE</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-06/new_europe.jpg.webp?itok=W1OoqcqZ</photo>
+    <skipper age="52">
+      <origine>Veszprem </origine>
+      <nom>Szabolcs WEÖRES </nom>
+    </skipper>
+    <skipper age="33">
+      <origine>Genève </origine>
+      <nom>Bérénice CHARREZ</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2023">
+    <nom>NST RACING &amp; CABINET Z</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-09/NST%20RACING%20%26%20CABINET%20Z%20-%20Class40.jpg.webp?itok=rmQzHSkK</photo>
+    <skipper age="23">
+      <origine>Brest </origine>
+      <nom>Thomas JOURDREN</nom>
+    </skipper>
+    <skipper age="23">
+      <origine>Non renseignée</origine>
+      <nom>Joseph CLOAREC</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2022">
+    <nom>OCEAN CONNECT - THE SEA CLEANERS</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-10/THE%20SEA%20CLEANERS%20-%20Class40.jpg.webp?itok=20BOFp2V</photo>
+    <skipper age="36">
+      <origine>Rochefort</origine>
+      <nom>Jean Baptiste TERNON </nom>
+    </skipper>
+    <skipper age="38">
+      <origine>Lorient </origine>
+      <nom>Gaëtan THOMAS</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2010">
+    <nom>OSE TA VICTOIRE</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-06/ose_ta_victoire.jpeg.webp?itok=MzYwc4KP</photo>
+    <skipper age="28">
+      <origine>Vannes </origine>
+      <nom>THOMAS LURTON</nom>
+    </skipper>
+    <skipper age="26">
+      <origine>Uccle </origine>
+      <nom>Sacha VANDENBROUCK</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Imoca" annee="2022">
+    <nom>PAPREC ARKÉA</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/PAPREC%20ARK%C3%89A%20-%20Imoca.jpg.webp?itok=uVGuCYZ0</photo>
+    <skipper age="42">
+      <origine>Fréjus </origine>
+      <nom>Yoann RICHOMME</nom>
+    </skipper>
+    <skipper age="36">
+      <origine>Auray </origine>
+      <nom>Corentin HOREAU</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2014">
+    <nom>PHARE 40 - HA PLUS PME</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-10/PHARE%2040%20-%20HA%20PLUS%20PME%20-%20Class40.jpg.webp?itok=5GKeBzcN</photo>
+    <skipper age="49">
+      <origine>Bordeaux</origine>
+      <nom>Edgard VINCENS&#13;</nom>
+    </skipper>
+    <skipper age="32">
+      <origine>Montpellier</origine>
+      <nom>Louis TORREILLES
+</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2024">
+    <nom>PIERREVAL-FONDATION GOOD PLANET
+</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-08/PIERREVAL-FONDATION%20GOOD%20PLANET%20-%20Class40.jpg.webp?itok=w_m651qr</photo>
+    <skipper age="53">
+      <origine>Loctudy </origine>
+      <nom>Vincent RIOU&#13;</nom>
+    </skipper>
+    <skipper age="32">
+      <origine>Poitiers</origine>
+      <nom>Yann DOFFIN&#13;</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2010">
+    <nom>Qwanza</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/REVE%20A%20PERTE%20A%20VUE%20-%20class40.jpg.webp?itok=GNRQUSbg</photo>
+    <skipper age="61">
+      <origine>Marseille</origine>
+      <nom>Joël PARIS</nom>
+    </skipper>
+    <skipper age="49">
+      <origine>Vence </origine>
+      <nom>Goulven MARIE</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2025">
+    <nom>RDT LOGISTIC - FORVIS MAZARS&#13;</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-10/RDT%20LOGISTICS-FORVIS%20MAZARS%20-%20Class40.jpg.webp?itok=KIdjkE-k</photo>
+    <skipper age="53">
+      <origine> Le Havre</origine>
+      <nom>Renaud COURBON&#13;</nom>
+    </skipper>
+    <skipper age="54">
+      <origine> Le Havre</origine>
+      <nom>Gilles COURBON&#13;</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2025">
+    <nom>RÉAUTÉ CHOCOLAT</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/REAUTE%20CHOCOLAT%20-%20Class40%20Maquette.png.webp?itok=a2x9Y2KZ</photo>
+    <skipper age="34">
+      <origine>Le Mans</origine>
+      <nom>Lomano TAKASI&#13;</nom>
+    </skipper>
+    <skipper age="32">
+      <origine>Lorient </origine>
+      <nom>Jean MARRE</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2009">
+    <nom>RENOVATEC</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/VOILES%20ET%20PERFORMANCES%20-%20Clas40.jpg.webp?itok=XjOwVUyk</photo>
+    <skipper age="35">
+      <origine>Nancy</origine>
+      <nom>Ulysse POZZOLI&#13;</nom>
+    </skipper>
+    <skipper age="43">
+      <origine>Nyon</origine>
+      <nom>Steven GRIENER&#13;</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2014">
+    <nom>RÊVE DE LARGE 5</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-08/REVE%20DE%20LARGE%205%20-%20Class40.jpg.webp?itok=Btb86jze</photo>
+    <skipper age="39">
+      <origine> Les Abîmes</origine>
+      <nom>Rodolphe SEPHO</nom>
+    </skipper>
+    <skipper age="27">
+      <origine>Argentine</origine>
+      <nom>Jean-Pierre COUTAYAR</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2023">
+    <nom>SAEFRIGO - SOGESTRAN</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-09/SEAFRIGO%20-%20SOGESTRAN%20-%20Class40.jpg.webp?itok=q_RBh2Jf</photo>
+    <skipper age="31">
+      <origine>Le havre</origine>
+      <nom>&#13;
+Guillaume PIROUELLE</nom>
+    </skipper>
+    <skipper age="28">
+      <origine>Le havre</origine>
+      <nom>  Cédric CHATEAU</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2025">
+    <nom>SNSM, FAITES UN DON </nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/TBC%20-%20Class40.jpg.webp?itok=fn6zW6FM</photo>
+    <skipper age="51">
+      <origine>Nantes</origine>
+      <nom>Corentin DOUGUET</nom>
+    </skipper>
+    <skipper age="37">
+      <origine>Saint-Nazaire</origine>
+      <nom>Axel TRÉHIN</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Ultim" annee="2019">
+    <nom>SODEBO ULTIM 3</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/SODEBO%20ULTIM%203%20-%20Ultim.jpg.webp?itok=cFUTyMXT</photo>
+    <skipper age="57">
+      <origine>Locmariaquer</origine>
+      <nom>Thomas COVILLE</nom>
+    </skipper>
+    <skipper age="38">
+      <origine>Lyon </origine>
+      <nom> &#13;
+Benjamin SCHWARTZ</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2025">
+    <nom>SOLANO</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-09/SOLANO%20-%20Class40.jpg.webp?itok=yr0LPQxd</photo>
+    <skipper age="31">
+      <origine>Nice</origine>
+      <nom>Robin FOLLIN</nom>
+    </skipper>
+    <skipper age="31">
+      <origine>Saint-Malo</origine>
+      <nom>Jules BONNIER</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Ocean Fifty" annee="2020">
+    <nom>SOLIDAIRES EN PELOTON</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/SOLIDAIRES%20EN%20PELOTON%20-%20Ocean%20Fifty.jpg.webp?itok=SHF5s_eo</photo>
+    <skipper age="48">
+      <origine>Cancale</origine>
+      <nom>Thibaut VAUCHEL-CAMUS</nom>
+    </skipper>
+    <skipper age="47">
+      <origine>Auray</origine>
+      <nom>Damien SEGUIN</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Ultim" annee="2021">
+    <nom>SVR - LAZARTIGUE</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-09/SVR%20LAZARTIGUE%20-%20ULTIM.JPG.webp?itok=GH2wi3Ui</photo>
+    <skipper age="29">
+      <origine>La Rochelle</origine>
+      <nom>Tom LAPERCHE</nom>
+    </skipper>
+    <skipper age="54">
+      <origine>Aix-En-Provence</origine>
+      <nom>Franck CAMMAS</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Imoca" annee="2017">
+    <nom>TEAM SNEF - TEAMWORK</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-06/TEAMWORKTEAM%20SNEF.jpg.webp?itok=ws7YlCRQ</photo>
+    <skipper age="39">
+      <origine>Genève - Suisse</origine>
+      <nom>Justine METTRAUX</nom>
+    </skipper>
+    <skipper age="45">
+      <origine>Mont-Saint-Aignan</origine>
+      <nom>Xavier MACAIRE</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2025">
+    <nom>TRIMCONTROL</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-09/TRIMCONTROL-%20Class40.jpg.webp?itok=u1DYj05z</photo>
+    <skipper age="46">
+      <origine>Carnac</origine>
+      <nom>Alexandre LE GALLAIS</nom>
+    </skipper>
+    <skipper age="60">
+      <origine>Concarneau</origine>
+      <nom>Michel DESJOYEAUX</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Ocean Fifty" annee="">
+    <nom>UPWIND BY MERCONCEPT</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-06/upwind_by_merconcept.jpg.webp?itok=MbantxNz</photo>
+    <skipper age="43">
+      <origine>Brest</origine>
+      <nom>Anne-Claire LE BERRE</nom>
+    </skipper>
+    <skipper age="41">
+      <origine>Neyruz</origine>
+      <nom>Elodie-Jane METTRAUX
+</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Ocean Fifty" annee="2017">
+    <nom>VIABILIS OCEANS</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-08/VIABILIS%20OCEANS%20-%20Ocean%20fifty.jpg.webp?itok=1tEPrTK1</photo>
+    <skipper age="28">
+      <origine>Tessoualle</origine>
+      <nom>Baptiste HULIN
+</nom>
+    </skipper>
+    <skipper age="43">
+      <origine>St Brieuc</origine>
+      <nom>Thomas ROUXEL
+</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2021">
+    <nom>VIRANGA</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/Viranga%20-%20Class40.jpg.webp?itok=gpmNkfBV</photo>
+    <skipper age="62">
+      <origine>Lille</origine>
+      <nom>Emmanuel HAMEZ
+</nom>
+    </skipper>
+    <skipper age="55">
+      <origine>Chambéry</origine>
+      <nom>Gérald VÉNIARD
+</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2023">
+    <nom>VOGUE AVEC UN CROHN</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/VOGUE%20AVEC%20UN%20CROHN%20-%20class40.jpg.webp?itok=akb6d1lg</photo>
+    <skipper age="29">
+      <origine>Honfleur</origine>
+      <nom>Pierre-Louis ATTWELL
+</nom>
+    </skipper>
+    <skipper age="32">
+      <origine>Deauville</origine>
+      <nom>Maxime BENSA
+</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2022">
+    <nom>VSF SPORT</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/VSF%20SPORT%20-%20Class40.jpg.webp?itok=Kxe-HVkb</photo>
+    <skipper age="26">
+      <origine>Barcelone</origine>
+      <nom></nom>
+    </skipper>
+    <skipper age="38">
+      <origine>Stantandar</origine>
+      <nom>Pablo SANTURDE DEL ARCO
+</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2023">
+    <nom>WASABIII</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-07/wasabiii.jpg.webp?itok=uC9-0zW0</photo>
+    <skipper age="57">
+      <origine>Roches premarie andille</origine>
+      <nom>Stéphane BODIN</nom>
+    </skipper>
+    <skipper age="47">
+      <origine>Quimper</origine>
+      <nom>Loeiz CADIOU</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2018">
+    <nom>WEEECYCLING</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-06/weeecycling.jpg.webp?itok=Wn9ySbnP</photo>
+    <skipper age="48">
+      <origine>Lehon</origine>
+      <nom>Nicolas LEMARCHAND&#13;</nom>
+    </skipper>
+    <skipper age="49">
+      <origine>Saint Malo</origine>
+      <nom>Matthieu DERENNE</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Ocean Fifty" annee="2019">
+    <nom>WEWISE</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-09/WEWISE%20-%20OCEAN%20FIFTY.jpg.webp?itok=mVU3h3CV</photo>
+    <skipper age="33">
+      <origine>La Capte</origine>
+      <nom>Pierre QUIROGA</nom>
+    </skipper>
+    <skipper age="28">
+      <origine>Landeda</origine>
+      <nom>Gaston MORVAN</nom>
+    </skipper>
+  </voilier>
+  <voilier classe="Class40" annee="2025">
+    <nom>ZEISS</nom>
+    <photo>https://www.transatcafelor.org/sites/default/files/styles/crop_1800_607/public/2025-08/ZEISS%20-%20Class40.jpeg.webp?itok=lbZ7-nUD</photo>
+    <skipper age="25">
+      <origine>Le Havre</origine>
+      <nom>Thimothé POLET</nom>
+    </skipper>
+    <skipper age="27">
+      <origine>Cherbourg</origine>
+      <nom>Pierrick LETOUZÉ</nom>
+    </skipper>
+  </voilier>
+</voiliers>
