@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc18604b-54a5-41eb-bb2c-5042c3f62386" name="Changes" comment="Commit.">
-      <change afterPath="$PROJECT_DIR$/JavaScript/scripts/evenementPhoto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/css/photos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/photos/Justine_METTRAUX.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/photos/Thibaut_VAUCHEL-CAMUS.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/photos/Thomas_RUYANT.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/Exercice 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/Exercice 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/scripts/evenementPhoto.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/scripts/evenementPhoto.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +27,7 @@
         <option value="PHP File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -37,10 +43,10 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/dy6P/TP-Dev-WEB&quot;,
-    &quot;accountId&quot;: &quot;3d7f2761-4891-4d24-a032-8d3329313502&quot;
+    &quot;accountId&quot;: &quot;d851e61b-29cf-44d2-99ec-70114b6e8038&quot;
   }
 }</component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\tools\php83\php.exe" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:/tools/php83/php.exe" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -50,37 +56,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.voiliers.php.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;PHP Script.validation.php.executor&quot;: &quot;Run&quot;,
-    &quot;PHP Script.voiliers.php.executor&quot;: &quot;Run&quot;,
-    &quot;PHP Script.voiliers_catégories.php.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;U:/tpweb1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Exercice 1.html.executor": "Run",
+    "JavaScript Debug.voiliers.php.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "PHP Script.validation.php.executor": "Run",
+    "PHP Script.voiliers.php.executor": "Run",
+    "PHP Script.voiliers_catégories.php.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "U:/tpweb1",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="U:\tpweb1\tp_articles\res" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="U:\tpweb1\JavaScript\photos" />
       <recent name="U:\tpweb1\XML\Voiliers_catégories" />
       <recent name="U:\tpweb1\XML\Voiliers" />
       <recent name="U:\tpweb1\tp_articles\res" />
       <recent name="U:\tpweb1\Users" />
-      <recent name="U:\tpweb1" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -107,7 +115,8 @@
       <workItem from="1761203612650" duration="6060000" />
       <workItem from="1762513363340" duration="1636000" />
       <workItem from="1763042500774" duration="9966000" />
-      <workItem from="1763649857957" duration="751000" />
+      <workItem from="1763649857957" duration="931000" />
+      <workItem from="1763719554189" duration="4703000" />
     </task>
     <task id="LOCAL-00001" summary="Commit.">
       <option name="closed" value="true" />
@@ -189,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763052674490</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Commit.">
+      <option name="closed" value="true" />
+      <created>1763650761278</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1763650761278</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
