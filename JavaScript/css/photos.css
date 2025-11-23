@@ -26,25 +26,23 @@ body > img {
 }
 
 #result {
-    margin-top: 30px; /* espace au-dessus */
+    margin-top: 30px;
     padding: 15px;
     background-color: #f0f0f0;
-    display: block;       /* force le div à aller à la ligne */
-    width: 100%;          /* occupe toute la largeur disponible si tu veux */
-    text-align: center;   /* centre le contenu texte/image à l’intérieur */
+    display: block;
+    width: 100%;
+    text-align: center;
     font-size: 14px;
     color: #333;
 }
 
-/* Retour à la ligne pour le texte */
 #result br {
     line-height: 1.5;
 }
 
-/* Images des voiliers affichées dans #result */
 #result img {
     display: block;
-    margin: 10px auto 0 auto; /* centré horizontalement */
+    margin: 10px auto 0 auto;
     border: 1px solid #aaa;
     border-radius: 5px;
     width: 180px;
