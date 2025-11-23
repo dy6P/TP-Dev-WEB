@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc18604b-54a5-41eb-bb2c-5042c3f62386" name="Changes" comment="Commit.">
-      <change afterPath="$PROJECT_DIR$/JavaScript/css/photos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/photos/Justine_METTRAUX.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/photos/Thibaut_VAUCHEL-CAMUS.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/photos/Thomas_RUYANT.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/Exercice 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/Exercice 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/photos/ALLAGRANDE_MAPEI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/photos/INITIATIVES_COEUR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/photos/SOLIDAIRES_EN_PELOTON.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/photos/TEAM_SNEF-TEAMWORK.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/css/photos.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/css/photos.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaScript/scripts/evenementPhoto.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/scripts/evenementPhoto.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +39,13 @@
     &quot;assignee&quot;: &quot;dy6P&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/dy6P/TP-Dev-WEB&quot;,
-    &quot;accountId&quot;: &quot;d851e61b-29cf-44d2-99ec-70114b6e8038&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dy6P/TP-Dev-WEB",
+    "accountId": "a2a88204-e7f6-435c-8cd7-374a7def853c"
   }
-}</component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:/tools/php83/php.exe" />
+}]]></component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="$PROJECT_DIR$/../../../../tools/php83/php.exe" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -69,6 +68,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "U:/tpweb1",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -84,18 +84,18 @@
       <recent name="U:\tpweb1\tp_articles\res" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Personnel\BUT-2\Développement WEB\TP-Dev-WEB\JavaScript\photos" />
       <recent name="U:\tpweb1\JavaScript\photos" />
       <recent name="U:\tpweb1\XML\Voiliers_catégories" />
       <recent name="U:\tpweb1\XML\Voiliers" />
       <recent name="U:\tpweb1\tp_articles\res" />
-      <recent name="U:\tpweb1\Users" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PS-252.26830.95" />
-        <option value="bundled-php-predefined-a98d8de5180a-9b563d34894c-com.jetbrains.php.sharedIndexes-PS-252.26830.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-PS-252.26199.163" />
+        <option value="bundled-php-predefined-a98d8de5180a-f0a8ef430dfa-com.jetbrains.php.sharedIndexes-PS-252.26199.163" />
       </set>
     </attachedChunks>
   </component>
@@ -117,6 +117,7 @@
       <workItem from="1763042500774" duration="9966000" />
       <workItem from="1763649857957" duration="931000" />
       <workItem from="1763719554189" duration="4703000" />
+      <workItem from="1763908476009" duration="4071000" />
     </task>
     <task id="LOCAL-00001" summary="Commit.">
       <option name="closed" value="true" />
