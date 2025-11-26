@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc18604b-54a5-41eb-bb2c-5042c3f62386" name="Changes" comment="Commit.">
-      <change afterPath="$PROJECT_DIR$/JavaScript/css/photos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/photos/Justine_METTRAUX.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/photos/Thibaut_VAUCHEL-CAMUS.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/photos/Thomas_RUYANT.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/Exercice 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/Exercice 1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/scripts/evenementPhoto.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/scripts/evenementPhoto.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +34,12 @@
     &quot;assignee&quot;: &quot;dy6P&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/dy6P/TP-Dev-WEB&quot;,
-    &quot;accountId&quot;: &quot;d851e61b-29cf-44d2-99ec-70114b6e8038&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dy6P/TP-Dev-WEB",
+    "accountId": "58459f2b-1ef3-45e4-93bf-5685f05a8ec4"
   }
-}</component>
+}]]></component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:/tools/php83/php.exe" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -116,7 +110,7 @@
       <workItem from="1762513363340" duration="1636000" />
       <workItem from="1763042500774" duration="9966000" />
       <workItem from="1763649857957" duration="931000" />
-      <workItem from="1763719554189" duration="4703000" />
+      <workItem from="1763719554189" duration="5119000" />
     </task>
     <task id="LOCAL-00001" summary="Commit.">
       <option name="closed" value="true" />
@@ -206,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763650761278</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Commit.">
+      <option name="closed" value="true" />
+      <created>1763724512499</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1763724512499</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
