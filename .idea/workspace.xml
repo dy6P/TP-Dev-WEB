@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc18604b-54a5-41eb-bb2c-5042c3f62386" name="Changes" comment="Commit.">
-      <change afterPath="$PROJECT_DIR$/JavaScript/Exercice_1_part_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/photos/logos/Class40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/photos/logos/Imoca.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/photos/logos/OceanFifty.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/photos/logos/Ultim.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/scripts/evenementClasse.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/Exercice 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/Exercice_intro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/photos/ALLAGRANDE_MAPEI.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/photos/voiliers/ALLAGRANDE_MAPEI.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/photos/INITIATIVES_COEUR.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/photos/voiliers/INITIATIVES_COEUR.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/photos/Justine_METTRAUX.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/photos/skippers/Justine_METTRAUX.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/photos/SOLIDAIRES_EN_PELOTON.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/photos/voiliers/SOLIDAIRES_EN_PELOTON.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/photos/Samantha_DAVIES.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/photos/skippers/Samantha_DAVIES.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/photos/TEAM_SNEF-TEAMWORK.png" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/photos/voiliers/TEAM_SNEF-TEAMWORK.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/photos/Thibaut_VAUCHEL-CAMUS.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/photos/skippers/Thibaut_VAUCHEL-CAMUS.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/photos/Thomas_RUYANT.png" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/photos/skippers/Thomas_RUYANT.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/Exercice_1_part_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/Exercice_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/Exercice_intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/Exercice_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/scripts/evenementClasse.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/scripts/evenementClasse.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,10 +40,10 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/dy6P/TP-Dev-WEB&quot;,
-    &quot;accountId&quot;: &quot;d851e61b-29cf-44d2-99ec-70114b6e8038&quot;
+    &quot;accountId&quot;: &quot;726b2491-361c-4d84-9395-1cff693874ba&quot;
   }
 }</component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\tools\php83\php.exe" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:/tools/php83/php.exe" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -70,6 +58,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.Exercice 1.html.executor": "Run",
     "JavaScript Debug.Exercice_1_part_1.html.executor": "Run",
+    "JavaScript Debug.Exercice_2.html.executor": "Run",
     "JavaScript Debug.voiliers.php.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "PHP Script.validation.php.executor": "Run",
@@ -104,8 +93,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PS-242.21829.154" />
-        <option value="bundled-php-predefined-a98d8de5180a-4d9f4c849d09-com.jetbrains.php.sharedIndexes-PS-242.21829.154" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PS-252.26830.95" />
+        <option value="bundled-php-predefined-a98d8de5180a-9b563d34894c-com.jetbrains.php.sharedIndexes-PS-252.26830.95" />
       </set>
     </attachedChunks>
   </component>
@@ -127,7 +116,8 @@
       <workItem from="1763042500774" duration="9966000" />
       <workItem from="1763649857957" duration="931000" />
       <workItem from="1763719554189" duration="4703000" />
-      <workItem from="1764252992536" duration="2488000" />
+      <workItem from="1764252992536" duration="2554000" />
+      <workItem from="1764324432651" duration="4861000" />
     </task>
     <task id="LOCAL-00001" summary="Commit.">
       <option name="closed" value="true" />
@@ -217,11 +207,30 @@
       <option name="project" value="LOCAL" />
       <updated>1763650761278</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Commit.">
+      <option name="closed" value="true" />
+      <created>1764255534962</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1764255534962</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit." />
