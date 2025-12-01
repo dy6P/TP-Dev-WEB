@@ -27,13 +27,22 @@ function over() {
     while (divNomDeClasse.firstChild) {
         divNomDeClasse.removeChild(divNomDeClasse.firstChild);
     }
+    while (divVoiliers.firstChild) {
+        divVoiliers.removeChild(divVoiliers.firstChild);
+    }
     let indice = this.id;
     let nomClasse = document.createTextNode(classesVoiliers[indice].nom);
+    divNomDeClasse.appendChild(document.createTextNode("NOM DE LA CLASSE = "))
     divNomDeClasse.appendChild(nomClasse);
+    divNomDeClasse.appendChild(document.createElement("br"));
+    divNomDeClasse.appendChild(document.createElement("br"));
     voiliers = classesVoiliers[indice].voiliers;
+    divVoiliers.appendChild(document.createTextNode("LISTE DES VOILIERS = "))
     for (let i = 0; i < voiliers.length; i ++) {
-        let voilier = document.createTextNode(voiliers.nom);
+        let voilier = document.createTextNode(voiliers[i].nom);
         divVoiliers.appendChild(voilier);
-        divVoiliers.appendChild(document.createElement("br"));
+        if (i+1 < voiliers.length) {
+            divVoiliers.appendChild(document.createTextNode(", "));
+        }
     }
 }
