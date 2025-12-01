@@ -1,0 +1,125 @@
+{
+  "nom": "Route du Café 2025",
+  "classes": [
+    {
+      "nom": "Class40",
+      "logo": "Class40.jpg",
+      "voiliers": [
+        {
+          "nom": "LES INVINCIBLES",
+          "annee": "2024",
+          "skippers": [
+            {
+              "nom": "William MATHELIN-MOREAUX"
+            },
+            {
+              "nom": "Pietro LUCIANI"
+            }
+          ]
+        },
+        {
+          "nom": "SEAFRIGO - SOGESTRAN",
+          "annee": "2023",
+          "skippers": [
+            {
+              "nom": "Guillaume PIROUELLE"
+            },
+            {
+              "nom": "Cédric CHATEAU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "IMOCA",
+      "logo": "Imoca.jpg",
+      "voiliers": [
+        {
+          "nom": "CHARAL",
+          "annee": "2022",
+          "skippers": [
+            {
+              "nom": "Jérémie BEYOU"
+            },
+            {
+              "nom": "Morgan LAGRAVIÈRE"
+            }
+          ]
+        },
+        {
+          "nom": "ALLAGRANDE MAPEI",
+          "annee": "2023",
+          "skippers": [
+            {
+              "nom": "Ambrogio BECCARIA"
+            },
+            {
+              "nom": "Thomas RUYANT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Ocean Fifty",
+      "logo": "OceanFifty.png",
+      "voiliers": [
+        {
+          "nom": "WEWISE",
+          "annee": "2019",
+          "skippers": [
+            {
+              "nom": "Pierre QUIROGA"
+            },
+            {
+              "nom": "Gaston MORVAN"
+            }
+          ]
+        },
+        {
+          "nom": "SOLIDAIRES EN PELOTON",
+          "annee": "2020",
+          "skippers": [
+            {
+              "nom": "Thibaut VAUCHEL-CAMUS"
+            },
+            {
+              "nom": "Damien SEGUIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Ultim",
+      "logo": "Ultim.jpg",
+      "voiliers": [
+        {
+          "nom": "SVR - LAZARTIGUE",
+          "annee": "2021",
+          "skippers": [
+            {
+              "nom": "Tom LAPERCHE"
+            },
+            {
+              "nom": "Franck CAMMAS"
+            }
+          ]
+        },
+        {
+          "nom": "SODEBO ULTIM 3",
+          "annee": "2019",
+          "skippers": [
+            {
+              "nom": "Thomas COVILLE"
+            },
+            {
+              "nom": "Benjamin SCHWARTZ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
