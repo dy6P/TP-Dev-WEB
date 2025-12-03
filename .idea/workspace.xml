@@ -5,11 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc18604b-54a5-41eb-bb2c-5042c3f62386" name="Changes" comment="Commit.">
-      <change afterPath="$PROJECT_DIR$/JavaScript/XML/Route_du_Cafe_2025.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/XML/Route_du_cafe_2025.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projet_Transat/scripts/Route_du_Cafe_2025_v2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/scripts/Route_du_Cafe_2025.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/scripts/Route_du_Cafe_2025.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/scripts/evenementClasse.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/scripts/evenementClasse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/Exercice_Introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/HTML/Exercice_Introduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/JSON/Route_du_Cafe_2025.json" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/JSON/Route_du_Cafe_2025.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/Route_du_Cafe_2025.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/HTML/Route_du_Cafe_2025.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/XML/Route_du_Cafe_2025.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/XML/Route_du_Cafe_2025.dtd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/XML/Route_du_cafe_2025.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/XML/Route_du_cafe_2025.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/css/photos.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/css/photos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/photos/logos/Class40.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/logos/Class40.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/photos/logos/Imoca.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/logos/Imoca.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/photos/logos/OceanFifty.png" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/logos/OceanFifty.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/photos/logos/Ultim.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/logos/Ultim.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/photos/skippers/Justine_METTRAUX.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/skippers/Justine_METTRAUX.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/photos/skippers/Samantha_DAVIES.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/skippers/Samantha_DAVIES.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/photos/skippers/Thibaut_VAUCHEL-CAMUS.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/skippers/Thibaut_VAUCHEL-CAMUS.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/photos/skippers/Thomas_RUYANT.png" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/skippers/Thomas_RUYANT.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/photos/voiliers/ALLAGRANDE_MAPEI.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/voiliers/ALLAGRANDE_MAPEI.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/photos/voiliers/INITIATIVES_COEUR.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/voiliers/INITIATIVES_COEUR.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/photos/voiliers/SOLIDAIRES_EN_PELOTON.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/voiliers/SOLIDAIRES_EN_PELOTON.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/photos/voiliers/TEAM_SNEF-TEAMWORK.png" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/voiliers/TEAM_SNEF-TEAMWORK.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/scripts/Route_du_Cafe_2025.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/scripts/Route_du_Cafe_2025_v1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/scripts/evenementClasse.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/scripts/evenementClasse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/scripts/evenementPhoto.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/scripts/evenementPhoto.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,12 +57,12 @@
     &quot;assignee&quot;: &quot;dy6P&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dy6P/TP-Dev-WEB",
-    "accountId": "440c37d2-ffd0-4ad2-bc3b-0f154a31df12"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dy6P/TP-Dev-WEB&quot;,
+    &quot;accountId&quot;: &quot;440c37d2-ffd0-4ad2-bc3b-0f154a31df12&quot;
   }
-}]]></component>
+}</component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:/tools/php83/php.exe" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -55,42 +73,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.Exercice 1.html.executor": "Run",
-    "JavaScript Debug.Exercice_1_part_1.html.executor": "Run",
-    "JavaScript Debug.Exercice_2.html.executor": "Run",
-    "JavaScript Debug.voiliers.php.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "PHP Script.validation.php.executor": "Run",
-    "PHP Script.voiliers.php.executor": "Run",
-    "PHP Script.voiliers_catégories.php.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "U:/tpweb1/JavaScript/XML",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.Exercice 1.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Exercice_1_part_1.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Exercice_2.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Route_du_Cafe_2025.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.voiliers.php.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.Route_du_Cafe_2025_v2.js.executor&quot;: &quot;Run&quot;,
+    &quot;PHP Script.validation.php.executor&quot;: &quot;Run&quot;,
+    &quot;PHP Script.voiliers.php.executor&quot;: &quot;Run&quot;,
+    &quot;PHP Script.voiliers_catégories.php.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;U:/tpweb1&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="U:\tpweb1\Projet_Transat\scripts" />
       <recent name="U:\tpweb1\JavaScript\XML" />
       <recent name="U:\tpweb1\tp_articles\res" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="U:\tpweb1\Projet_Transat\HTML" />
       <recent name="U:\tpweb1\JavaScript\XML" />
       <recent name="U:\tpweb1\JavaScript\photos\voiliers" />
       <recent name="U:\tpweb1\JavaScript\photos\logos" />
       <recent name="U:\tpweb1\JavaScript\photos\skippers" />
-      <recent name="U:\tpweb1\JavaScript\photos" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -121,7 +142,10 @@
       <workItem from="1763719554189" duration="4703000" />
       <workItem from="1764252992536" duration="2554000" />
       <workItem from="1764324432651" duration="4944000" />
-      <workItem from="1764594678295" duration="7753000" />
+      <workItem from="1764594678295" duration="8040000" />
+      <workItem from="1764763745460" duration="4424000" />
+      <workItem from="1764769447425" duration="2048000" />
+      <workItem from="1764771520091" duration="1180000" />
     </task>
     <task id="LOCAL-00001" summary="Commit.">
       <option name="closed" value="true" />
@@ -243,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764599675501</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Commit.">
+      <option name="closed" value="true" />
+      <created>1764602797927</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1764602797927</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
