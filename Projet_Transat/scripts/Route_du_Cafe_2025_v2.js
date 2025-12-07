@@ -30,42 +30,59 @@ function traitementReponse(request, logos) {
     }
 }
 
-function over(classeVoiliers) {
-    let divNomDeClasse = document.getElementById("nomDeClasse");
-    let divVoiliers = document.getElementById("voiliers");
-
-    divNomDeClasse.innerHTML = "";
-    divVoiliers.innerHTML = "";
-
+function over(classeVoiliers){
+    let divNomDeClasse=document.getElementById("nomDeClasse");
+    let divVoiliers=document.getElementById("voiliers");
+    divNomDeClasse.innerHTML="";
+    divVoiliers.innerHTML="";
     divNomDeClasse.append(classeVoiliers.getAttribute("nom"));
     divNomDeClasse.appendChild(document.createElement("br"));
     divNomDeClasse.appendChild(document.createElement("br"));
     divNomDeClasse.appendChild(document.createElement("br"));
-
-
-    let voiliers = classeVoiliers.getElementsByTagName("voilier");
-
-    let table = document.createElement("table");
+    let voiliers=classeVoiliers.getElementsByTagName("voilier");
+    let table=document.createElement("table");
     divVoiliers.appendChild(table);
-    let trTitre = document.createElement("tr");
-    let thNom = document.createElement("th");
-    thNom.textContent = "Nom";
-    let thAnnee = document.createElement("th");
-    thAnnee.textContent = "Année";
-    trTitre.appendChild(thNom);
+    let trTitre=document.createElement("tr");
+    let thVoilier=document.createElement("th");
+    thVoilier.textContent="Voilier";
+    let thAnnee=document.createElement("th");
+    thAnnee.textContent="Année";
+    let thSkippers=document.createElement("th");
+    thSkippers.textContent="Skippers";
+    let thAbandon=document.createElement("th");
+    thAbandon.textContent="Abandon";
+    trTitre.appendChild(thVoilier);
     trTitre.appendChild(thAnnee);
+    trTitre.appendChild(thSkippers);
+    trTitre.appendChild(thAbandon);
     table.appendChild(trTitre);
-    for (let i = 0; i < voiliers.length; i++) {
-        let voilier = voiliers[i];
-        let nom = voilier.getElementsByTagName("nom")[0].textContent;
-        let date = voilier.getAttribute("date_construction");
-        let tr = document.createElement("tr");
-        let tdNom = document.createElement("td");
-        tdNom.textContent = nom;
+    for(let i=0;i<voiliers.length;i++){
+        let voilier=voiliers[i];
+        let nomVoilier=voilier.getElementsByTagName("nom")[0].textContent.trim();
+        let anneeVoilier=voilier.getAttribute("date_construction");
+        let tr=document.createElement("tr");
+        let tdNom=document.createElement("td");
+        tdNom.textContent=nomVoilier;
         tr.appendChild(tdNom);
-        let tdDate = document.createElement("td");
-        tdDate.textContent = date;
+        let tdDate=document.createElement("td");
+        tdDate.textContent=anneeVoilier;
         tr.appendChild(tdDate);
+        let tdSkippers=document.createElement("td");
+        let skippers=voilier.getElementsByTagName("skipper");
+        for(let j=0;j<skippers.length;j++){
+            let skipperNom=skippers[j].textContent.trim();
+            if(j>0)tdSkippers.textContent+=", ";
+            tdSkippers.textContent+=skipperNom;
+        }
+        tr.appendChild(tdSkippers);
+        let tdAbandon=document.createElement("td");
+        let checkbox=document.createElement("input");
+        checkbox.type="checkbox";
+        checkbox.name="abandon[]";
+        tdAbandon.appendChild(checkbox);
+        tr.appendChild(tdAbandon);
         table.appendChild(tr);
     }
 }
+
+
