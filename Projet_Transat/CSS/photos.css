@@ -16,36 +16,54 @@ h2 {
     text-align: center;
 }
 
-body > img {
+#logos img {
     margin: 10px;
     border: 2px solid #ccc;
     border-radius: 5px;
     cursor: pointer;
     width: 180px;
     height: 200px;
+    transition: 0.2s;
 }
 
-#result {
+#logos img:hover {
+    border-color: #2c3e50;
+    transform: scale(1.05);
+}
+
+#nomDeClasse {
     margin-top: 30px;
-    padding: 15px;
-    background-color: #f0f0f0;
-    display: block;
-    width: 100%;
-    text-align: center;
-    font-size: 14px;
-    color: #333;
+    font-size: 22px;
+    font-weight: bold;
+    color: #2c3e50;
 }
 
-#result br {
-    line-height: 1.5;
+#voiliers {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
 }
 
-#result img {
-    display: block;
-    margin: 10px auto 0 auto;
-    border: 1px solid #aaa;
-    border-radius: 5px;
-    width: 180px;
-    height: 200px;
+#voiliers table {
+    border-collapse: collapse;
+    background: white;
+    min-width: 300px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
+#voiliers th {
+    background: #2c3e50;
+    color: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+#voiliers td {
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    background: #fafafa;
+}
+
+#voiliers tr:nth-child(even) td {
+    background: #f0f0f0;
+}

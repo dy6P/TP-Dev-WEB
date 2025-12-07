@@ -33,28 +33,39 @@ function traitementReponse(request, logos) {
 function over(classeVoiliers) {
     let divNomDeClasse = document.getElementById("nomDeClasse");
     let divVoiliers = document.getElementById("voiliers");
-    while (divNomDeClasse.firstChild) {
-        divNomDeClasse.removeChild(divNomDeClasse.firstChild);
-    }
-    while (divVoiliers.firstChild) {
-        divVoiliers.removeChild(divVoiliers.firstChild);
-    }
-    let nomClasse = document.createTextNode(classeVoiliers.getAttribute("nom"));
-    divNomDeClasse.appendChild(document.createTextNode("NOM DE LA CLASSE = "))
-    divNomDeClasse.appendChild(nomClasse);
+
+    divNomDeClasse.innerHTML = "";
+    divVoiliers.innerHTML = "";
+
+    divNomDeClasse.append(classeVoiliers.getAttribute("nom"));
     divNomDeClasse.appendChild(document.createElement("br"));
     divNomDeClasse.appendChild(document.createElement("br"));
+    divNomDeClasse.appendChild(document.createElement("br"));
+
+
     let voiliers = classeVoiliers.getElementsByTagName("voilier");
-    divVoiliers.appendChild(document.createElement("table"))
-    for (let i = 0; i < voiliers.length; i ++) {
-        divVoiliers.appendChild(document.createElement("tr"));
-        let nomsVoiliers = voiliers.getElementsByTagName("nom");
-        let datesVoiliers = voiliers.getAttribute("date_construction");
-        for (let i = 0; i < nomsVoiliers.length; i ++) {
-            divVoiliers.appendChild(document.createElement("td"));
-            divVoiliers.appendChild(document.createTextNode(nomsVoiliers[i]));
-            divVoiliers.appendChild(document.createElement("td"));
-            divVoiliers.appendChild(document.createTextNode(datesVoiliers[i]));
-        }
+
+    let table = document.createElement("table");
+    divVoiliers.appendChild(table);
+    let trTitre = document.createElement("tr");
+    let thNom = document.createElement("th");
+    thNom.textContent = "Nom";
+    let thAnnee = document.createElement("th");
+    thAnnee.textContent = "Année";
+    trTitre.appendChild(thNom);
+    trTitre.appendChild(thAnnee);
+    table.appendChild(trTitre);
+    for (let i = 0; i < voiliers.length; i++) {
+        let voilier = voiliers[i];
+        let nom = voilier.getElementsByTagName("nom")[0].textContent;
+        let date = voilier.getAttribute("date_construction");
+        let tr = document.createElement("tr");
+        let tdNom = document.createElement("td");
+        tdNom.textContent = nom;
+        tr.appendChild(tdNom);
+        let tdDate = document.createElement("td");
+        tdDate.textContent = date;
+        tr.appendChild(tdDate);
+        table.appendChild(tr);
     }
 }
