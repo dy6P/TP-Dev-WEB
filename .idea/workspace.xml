@@ -5,29 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc18604b-54a5-41eb-bb2c-5042c3f62386" name="Changes" comment="Commit.">
-      <change afterPath="$PROJECT_DIR$/Projet_Transat/scripts/Route_du_Cafe_2025_v2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/Exercice_Introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/HTML/Exercice_Introduction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/JSON/Route_du_Cafe_2025.json" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/JSON/Route_du_Cafe_2025.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/Route_du_Cafe_2025.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/HTML/Route_du_Cafe_2025.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/XML/Route_du_Cafe_2025.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/XML/Route_du_Cafe_2025.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/XML/Route_du_cafe_2025.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/XML/Route_du_cafe_2025.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/css/photos.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/css/photos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/photos/logos/Class40.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/logos/Class40.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/photos/logos/Imoca.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/logos/Imoca.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/photos/logos/OceanFifty.png" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/logos/OceanFifty.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/photos/logos/Ultim.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/logos/Ultim.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/photos/skippers/Justine_METTRAUX.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/skippers/Justine_METTRAUX.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/photos/skippers/Samantha_DAVIES.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/skippers/Samantha_DAVIES.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/photos/skippers/Thibaut_VAUCHEL-CAMUS.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/skippers/Thibaut_VAUCHEL-CAMUS.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/photos/skippers/Thomas_RUYANT.png" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/skippers/Thomas_RUYANT.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/photos/voiliers/ALLAGRANDE_MAPEI.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/voiliers/ALLAGRANDE_MAPEI.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/photos/voiliers/INITIATIVES_COEUR.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/voiliers/INITIATIVES_COEUR.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/photos/voiliers/SOLIDAIRES_EN_PELOTON.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/voiliers/SOLIDAIRES_EN_PELOTON.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/photos/voiliers/TEAM_SNEF-TEAMWORK.png" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/photos/voiliers/TEAM_SNEF-TEAMWORK.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/scripts/Route_du_Cafe_2025.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/scripts/Route_du_Cafe_2025_v1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/scripts/evenementClasse.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/scripts/evenementClasse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/scripts/evenementPhoto.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/scripts/evenementPhoto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet_Transat/HTML/Exercice_Introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/HTML/Exercice_Introduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet_Transat/HTML/Route_du_Cafe_2025.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/HTML/Route_du_Cafe_2025.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet_Transat/XML/Route_du_cafe_2025.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/XML/Route_du_Cafe_2025.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet_Transat/css/photos.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/CSS/photos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet_Transat/scripts/Route_du_Cafe_2025_v1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/scripts/Route_du_Cafe_2025_v1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet_Transat/scripts/Route_du_Cafe_2025_v2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/scripts/Route_du_Cafe_2025_v2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet_Transat/scripts/evenementClasse.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/scripts/evenementClasse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet_Transat/scripts/evenementPhoto.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/scripts/evenementPhoto.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +46,10 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/dy6P/TP-Dev-WEB&quot;,
-    &quot;accountId&quot;: &quot;440c37d2-ffd0-4ad2-bc3b-0f154a31df12&quot;
+    &quot;accountId&quot;: &quot;a2a88204-e7f6-435c-8cd7-374a7def853c&quot;
   }
 }</component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:/tools/php83/php.exe" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="$PROJECT_DIR$/../../../../tools/php83/php.exe" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -107,18 +93,18 @@
       <recent name="U:\tpweb1\tp_articles\res" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Personnel\BUT-2\Développement WEB\TP-Dev-WEB\Projet_Transat\scripts" />
+      <recent name="C:\Personnel\BUT-2\Développement WEB\TP-Dev-WEB\Projet_Transat" />
       <recent name="U:\tpweb1\Projet_Transat\HTML" />
       <recent name="U:\tpweb1\JavaScript\XML" />
       <recent name="U:\tpweb1\JavaScript\photos\voiliers" />
-      <recent name="U:\tpweb1\JavaScript\photos\logos" />
-      <recent name="U:\tpweb1\JavaScript\photos\skippers" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PS-252.26830.95" />
-        <option value="bundled-php-predefined-a98d8de5180a-9b563d34894c-com.jetbrains.php.sharedIndexes-PS-252.26830.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-PS-252.26199.163" />
+        <option value="bundled-php-predefined-a98d8de5180a-f0a8ef430dfa-com.jetbrains.php.sharedIndexes-PS-252.26199.163" />
       </set>
     </attachedChunks>
   </component>
@@ -146,6 +132,8 @@
       <workItem from="1764763745460" duration="4424000" />
       <workItem from="1764769447425" duration="2048000" />
       <workItem from="1764771520091" duration="1180000" />
+      <workItem from="1765067574419" duration="595000" />
+      <workItem from="1765118148289" duration="358000" />
     </task>
     <task id="LOCAL-00001" summary="Commit.">
       <option name="closed" value="true" />

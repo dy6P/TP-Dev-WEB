@@ -2,7 +2,7 @@ window.onload = init;
 
 function init() {
     let request = new XMLHttpRequest();
-    request.open("GET", "XML/Route_du_Cafe_2025.xml");
+    request.open("GET", "/Projet_Transat/XML/Route_du_Cafe_2025.xml");
     request.send();
     request.onreadystatechange = function () {
         let logos = ["Class40.jpg", "Imoca.jpg", "Oceanfifty.png", "Ultim.jpg"]
@@ -17,7 +17,7 @@ function traitementReponse(request, logos) {
         let divLogo = document.getElementById("logos");
         for (let i = 0; i < classesVoiliers.length; i ++) {
             let elementLogo = document.createElement("img");
-            elementLogo.src = "photos/logos/" + logos[i];
+            elementLogo.src = "/Projet_Transat/photos/logos/" + logos[i];
             elementLogo.alt = classesVoiliers[i].getAttribute("nom");
             elementLogo.id = i;
             elementLogo.height = 200;

@@ -11,7 +11,7 @@ function init() {
     let divLogo = document.getElementById("logos");
     for (let i = 0; i < classesVoiliers.length; i ++) {
         let elementLogo = document.createElement("img");
-        elementLogo.src = "photos/logos/" + classesVoiliers[i].logo;
+        elementLogo.src = "/Projet_Transat/photos/logos/" + classesVoiliers[i].logo;
         elementLogo.alt = classesVoiliers[i].nom;
         elementLogo.id = i;
         elementLogo.height = 200;

@@ -9,10 +9,10 @@ function init() {
 
 function over() {
     let voiliers = {
-        "Samantha DAVIES" : { nom: "INITIATIVES COEUR", photo: "photos/INITIATIVES_COEUR.jpg" },
-        "Thibaut VAUCHET-CAMUS" : { nom: "SOLIDAIRES EN PELOTON", photo: "photos/SOLIDAIRES_EN_PELOTON.jpg" },
-        "Justine METTRAUX" : { nom: "TEAM SNEF - TEAMWORK", photo: "photos/TEAM_SNEF-TEAMWORK.png" },
-        "Thomas RUYANT" : { nom: "ALLAGRANDE MAPEI", photo: "photos/ALLAGRANDE_MAPEI.jpg" }
+        "Samantha DAVIES" : { nom: "INITIATIVES COEUR", photo: "/Projet_Transat/photos/INITIATIVES_COEUR.jpg" },
+        "Thibaut VAUCHET-CAMUS" : { nom: "SOLIDAIRES EN PELOTON", photo: "/Projet_Transat/photos/SOLIDAIRES_EN_PELOTON.jpg" },
+        "Justine METTRAUX" : { nom: "TEAM SNEF - TEAMWORK", photo: "/Projet_Transat/photos/TEAM_SNEF-TEAMWORK.png" },
+        "Thomas RUYANT" : { nom: "ALLAGRANDE MAPEI", photo: "/Projet_Transat/photos/ALLAGRANDE_MAPEI.jpg" }
     };
     let skipper = this.getAttribute("alt");
     let result = document.getElementById("result");
