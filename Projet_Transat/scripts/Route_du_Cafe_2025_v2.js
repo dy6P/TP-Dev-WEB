@@ -79,10 +79,25 @@ function over(classeVoiliers){
         let checkbox=document.createElement("input");
         checkbox.type="checkbox";
         checkbox.name="abandon";
+        checkbox.onchange = function() {
+            voilierJS = {nom : nomVoilier, skippers : skippers}
+            enregistrerAbandons(voilierJS)
+        }
         tdAbandon.appendChild(checkbox);
         tr.appendChild(tdAbandon);
         table.appendChild(tr);
     }
 }
 
+function enregistrerAbandons(voilier) {
+    let voilierJSON = JSON.stringify(voilierJS);
+    let request = new XMLHttpRequest();
+    alert("ok");
+    request.open("POST", "PHP/enregistrementAbandons.php");
+    request.setRequestHeader("Content-Type", "application/json");
+    request.send(voilierJSON);
+    request.onload = function() {
+        console.log(request.responseText);
+    }
+}
 

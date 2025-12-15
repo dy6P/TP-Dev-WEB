@@ -36,12 +36,12 @@
     &quot;assignee&quot;: &quot;dy6P&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/dy6P/TP-Dev-WEB&quot;,
-    &quot;accountId&quot;: &quot;a2a88204-e7f6-435c-8cd7-374a7def853c&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dy6P/TP-Dev-WEB",
+    "accountId": "e6bc5120-8535-4bf6-8998-08b608fb0207"
   }
-}</component>
+}]]></component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="$PROJECT_DIR$/../../../../tools/php83/php.exe" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -127,7 +127,7 @@
       <workItem from="1764771520091" duration="1180000" />
       <workItem from="1765067574419" duration="595000" />
       <workItem from="1765118148289" duration="5791000" />
-      <workItem from="1765810406744" duration="753000" />
+      <workItem from="1765810406744" duration="2028000" />
     </task>
     <task id="LOCAL-00001" summary="Commit.">
       <option name="closed" value="true" />
@@ -289,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765123200225</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Commit.">
+      <option name="closed" value="true" />
+      <created>1765811188419</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1765811188419</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
