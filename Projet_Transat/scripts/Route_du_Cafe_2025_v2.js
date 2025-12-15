@@ -58,7 +58,7 @@ function over(classeVoiliers){
     table.appendChild(trTitre);
     for(let i=0;i<voiliers.length;i++){
         let voilier=voiliers[i];
-        let nomVoilier=voilier.getElementsByTagName("nom")[0].textContent.trim();
+        let nomVoilier=voilier.getElementsByTagName("nom")[0].textContent;
         let anneeVoilier=voilier.getAttribute("date_construction");
         let tr=document.createElement("tr");
         let tdNom=document.createElement("td");
@@ -70,7 +70,7 @@ function over(classeVoiliers){
         let tdSkippers=document.createElement("td");
         let skippers=voilier.getElementsByTagName("skipper");
         for(let j=0;j<skippers.length;j++){
-            let skipperNom=skippers[j].textContent.trim();
+            let skipperNom=skippers[j].textContent;
             if(j>0)tdSkippers.textContent+=", ";
             tdSkippers.textContent+=skipperNom;
         }
@@ -78,7 +78,7 @@ function over(classeVoiliers){
         let tdAbandon=document.createElement("td");
         let checkbox=document.createElement("input");
         checkbox.type="checkbox";
-        checkbox.name="abandon[]";
+        checkbox.name="abandon";
         tdAbandon.appendChild(checkbox);
         tr.appendChild(tdAbandon);
         table.appendChild(tr);
