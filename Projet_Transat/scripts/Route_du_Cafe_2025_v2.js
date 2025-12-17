@@ -92,8 +92,7 @@ function over(classeVoiliers){
 function enregistrerAbandons(voilier) {
     let voilierJSON = JSON.stringify(voilierJS);
     let request = new XMLHttpRequest();
-    alert("ok");
-    request.open("POST", "PHP/enregistrementAbandons.php");
+    request.open("POST", "/Projet_Transat/PHP/enregistrementAbandons.php");
     request.setRequestHeader("Content-Type", "application/json");
     request.send(voilierJSON);
     request.onload = function() {
