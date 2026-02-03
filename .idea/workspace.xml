@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc18604b-54a5-41eb-bb2c-5042c3f62386" name="Changes" comment="Commit.">
+      <change afterPath="$PROJECT_DIR$/Complement/Utilisateur.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/accueil.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/action.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/data/data2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/ressources/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/ressources/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/ressources/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projet_Transat/JSON/Route_du_Cafe_2025.json" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/JSON/Route_du_Cafe_2025.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projet_Transat/scripts/Route_du_Cafe_2025_v2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Transat/scripts/Route_du_Cafe_2025_v2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sauvegardes conf/myconf.conf" beforeDir="false" afterPath="$PROJECT_DIR$/Sauvegardes conf/myconf.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +45,13 @@
     &quot;assignee&quot;: &quot;dy6P&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dy6P/TP-Dev-WEB",
-    "accountId": "a2a88204-e7f6-435c-8cd7-374a7def853c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dy6P/TP-Dev-WEB&quot;,
+    &quot;accountId&quot;: &quot;7858ffa7-0780-4f01-a755-6df680592619&quot;
   }
-}]]></component>
+}</component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:/tools/php83/php.exe" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -52,35 +61,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.Exercice 1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Exercice_1_part_1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Exercice_2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Route_du_Cafe_2025.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.voiliers.php.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Node.js.Route_du_Cafe_2025_v2.js.executor&quot;: &quot;Run&quot;,
-    &quot;PHP Script.validation.php.executor&quot;: &quot;Run&quot;,
-    &quot;PHP Script.voiliers.php.executor&quot;: &quot;Run&quot;,
-    &quot;PHP Script.voiliers_catégories.php.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;U:/tpweb1&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Exercice 1.html.executor": "Run",
+    "JavaScript Debug.Exercice_1_part_1.html.executor": "Run",
+    "JavaScript Debug.Exercice_2.html.executor": "Run",
+    "JavaScript Debug.Route_du_Cafe_2025.html.executor": "Run",
+    "JavaScript Debug.voiliers.php.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.Route_du_Cafe_2025_v2.js.executor": "Run",
+    "PHP Script.validation.php.executor": "Run",
+    "PHP Script.voiliers.php.executor": "Run",
+    "PHP Script.voiliers_catégories.php.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "U:/tpweb1/Complement",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="U:\tpweb1\Complement" />
       <recent name="U:\tpweb1\Projet_Transat\scripts" />
       <recent name="U:\tpweb1\JavaScript\XML" />
       <recent name="U:\tpweb1\tp_articles\res" />
@@ -96,8 +106,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-PS-252.26199.163" />
-        <option value="bundled-php-predefined-a98d8de5180a-f0a8ef430dfa-com.jetbrains.php.sharedIndexes-PS-252.26199.163" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PS-252.26830.95" />
+        <option value="bundled-php-predefined-a98d8de5180a-9b563d34894c-com.jetbrains.php.sharedIndexes-PS-252.26830.95" />
       </set>
     </attachedChunks>
   </component>
@@ -128,7 +138,8 @@
       <workItem from="1765067574419" duration="595000" />
       <workItem from="1765118148289" duration="5791000" />
       <workItem from="1765810406744" duration="2170000" />
-      <workItem from="1767369747004" duration="8882000" />
+      <workItem from="1765975881028" duration="205000" />
+      <workItem from="1770122905347" duration="7435000" />
     </task>
     <task id="LOCAL-00001" summary="Commit.">
       <option name="closed" value="true" />
@@ -308,11 +319,11 @@
     </task>
     <task id="LOCAL-00023" summary="Commit.">
       <option name="closed" value="true" />
-      <created>1767373493311</created>
+      <created>1765976055888</created>
       <option name="number" value="00023" />
       <option name="presentableId" value="LOCAL-00023" />
       <option name="project" value="LOCAL" />
-      <updated>1767373493311</updated>
+      <updated>1765976055888</updated>
     </task>
     <option name="localTasksCounter" value="24" />
     <servers />
