@@ -5,10 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc18604b-54a5-41eb-bb2c-5042c3f62386" name="Changes" comment="Commit.">
+      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/Utilisateur.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/action.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/data/commerce.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/data/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/data/produits.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/data/utilisateurs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/produitsCSV.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/produitsJSON.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/produitsXML.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/ressources/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/ressources/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/ressources/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/ressources/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complement/Utilisateur.php" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/Utilisateur.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complement/action.php" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/action.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complement/ressources/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/ressources/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complement/Utilisateur.php" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/INTRO/Utilisateur.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complement/accueil.php" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/INTRO/accueil.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complement/action.php" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/INTRO/action.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complement/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/INTRO/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complement/client.php" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/INTRO/client.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complement/data/data2.json" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/INTRO/data/data2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complement/data/data2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/INTRO/data/data2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complement/ressources/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/INTRO/ressources/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complement/ressources/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/INTRO/ressources/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complement/ressources/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/INTRO/ressources/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,10 +43,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="tsconfig.json" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="PHP File" />
       </list>
     </option>
@@ -54,46 +76,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.Exercice 1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Exercice_1_part_1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Exercice_2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Route_du_Cafe_2025.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.voiliers.php.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Node.js.Route_du_Cafe_2025_v2.js.executor&quot;: &quot;Run&quot;,
-    &quot;PHP Script.validation.php.executor&quot;: &quot;Run&quot;,
-    &quot;PHP Script.voiliers.php.executor&quot;: &quot;Run&quot;,
-    &quot;PHP Script.voiliers_catégories.php.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;U:/tpweb1/Complement&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Exercice 1.html.executor": "Run",
+    "JavaScript Debug.Exercice_1_part_1.html.executor": "Run",
+    "JavaScript Debug.Exercice_2.html.executor": "Run",
+    "JavaScript Debug.Route_du_Cafe_2025.html.executor": "Run",
+    "JavaScript Debug.voiliers.php.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.Route_du_Cafe_2025_v2.js.executor": "Run",
+    "PHP Script.validation.php.executor": "Run",
+    "PHP Script.voiliers.php.executor": "Run",
+    "PHP Script.voiliers_catégories.php.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Personnel/BUT-2/Développement WEB/TP-Dev-WEB/Complement/TP-Maison/data",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Personnel\BUT-2\Développement WEB\TP-Dev-WEB\Complement\TP-Maison\data" />
+      <recent name="C:\Personnel\BUT-2\Développement WEB\TP-Dev-WEB\Complement\TP-Maison" />
       <recent name="U:\tpweb1\Complement" />
       <recent name="U:\tpweb1\Projet_Transat\scripts" />
       <recent name="U:\tpweb1\JavaScript\XML" />
-      <recent name="U:\tpweb1\tp_articles\res" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Personnel\BUT-2\Développement WEB\TP-Dev-WEB\Complement\TP-Maison\data" />
+      <recent name="C:\Personnel\BUT-2\Développement WEB\TP-Dev-WEB\Complement\INTRO" />
       <recent name="C:\Personnel\BUT-2\Développement WEB\TP-Dev-WEB\Projet_Transat\scripts" />
       <recent name="C:\Personnel\BUT-2\Développement WEB\TP-Dev-WEB\Projet_Transat" />
       <recent name="U:\tpweb1\Projet_Transat\HTML" />
-      <recent name="U:\tpweb1\JavaScript\XML" />
-      <recent name="U:\tpweb1\JavaScript\photos\voiliers" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -133,7 +156,7 @@
       <workItem from="1765810406744" duration="2170000" />
       <workItem from="1765975881028" duration="205000" />
       <workItem from="1770122905347" duration="7435000" />
-      <workItem from="1770493741330" duration="2958000" />
+      <workItem from="1770493741330" duration="9553000" />
     </task>
     <task id="LOCAL-00001" summary="Commit.">
       <option name="closed" value="true" />
@@ -319,7 +342,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765976055888</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Commit.">
+      <option name="closed" value="true" />
+      <created>1770500229732</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1770500229732</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

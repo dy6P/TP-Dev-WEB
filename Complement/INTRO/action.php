@@ -1,6 +1,7 @@
 <?php
 
-use Complement\Utilisateur;
+use Complement\INTRO\Utilisateur;
+
 require_once("Utilisateur.php");
 session_start();
 

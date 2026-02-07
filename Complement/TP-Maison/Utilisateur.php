@@ -1,6 +1,5 @@
 <?php
 
-namespace Complement;
 
 class Utilisateur
 {
