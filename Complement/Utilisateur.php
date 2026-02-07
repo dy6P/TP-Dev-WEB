@@ -34,7 +34,7 @@ class Utilisateur
     }
 
     public function __destruct() {
-        echo "<p><b>@suppression de $this->login</b></p>";
+        echo "<p><b>Suppression de $this->login</b></p>";
     }
 
     public function __toString() {
