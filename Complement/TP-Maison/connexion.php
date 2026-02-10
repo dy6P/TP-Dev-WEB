@@ -1,7 +1,6 @@
 <?php
 include('ressources/head.php');
 ?>
-
     <main>
         <fieldset>
             <legend>Authentification</legend>

@@ -36,5 +36,11 @@ include('ressources/head.php');
         </tbody>
     </table>
 </main>
+<aside>
+    <fieldset>
+        <legend>Ajouter un produit</legend>
+        <?php include('ressources/ajout.html'); ?>
+    </fieldset>
+</aside>
 <?php include('ressources/footer.html'); ?>
 
