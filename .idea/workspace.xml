@@ -5,32 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc18604b-54a5-41eb-bb2c-5042c3f62386" name="Changes" comment="Commit.">
-      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/Utilisateur.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/action.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/admin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/data/commerce.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/data/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/data/produits.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/data/utilisateurs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/produitsCSV.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/produitsJSON.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/produitsXML.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/ressources/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/ressources/head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/ressources/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/ressources/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/action_deconnexion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complement/TP-Maison/connexion.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complement/Utilisateur.php" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/INTRO/Utilisateur.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complement/accueil.php" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/INTRO/accueil.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complement/action.php" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/INTRO/action.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complement/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/INTRO/admin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complement/client.php" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/INTRO/client.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complement/data/data2.json" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/INTRO/data/data2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complement/data/data2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/INTRO/data/data2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complement/ressources/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/INTRO/ressources/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complement/ressources/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/INTRO/ressources/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complement/ressources/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/INTRO/ressources/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complement/TP-Maison/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/TP-Maison/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complement/TP-Maison/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/TP-Maison/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complement/TP-Maison/produitsCSV.php" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/TP-Maison/produitsCSV.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complement/TP-Maison/produitsJSON.php" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/TP-Maison/produitsJSON.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complement/TP-Maison/produitsXML.php" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/TP-Maison/produitsXML.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complement/TP-Maison/ressources/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/Complement/TP-Maison/ressources/head.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +43,13 @@
     &quot;assignee&quot;: &quot;dy6P&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dy6P/TP-Dev-WEB",
-    "accountId": "a2a88204-e7f6-435c-8cd7-374a7def853c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dy6P/TP-Dev-WEB&quot;,
+    &quot;accountId&quot;: &quot;a2a88204-e7f6-435c-8cd7-374a7def853c&quot;
   }
-}]]></component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="$PROJECT_DIR$/../../../../tools/php83/php.exe" />
+}</component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:/tools/php83/php.exe" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -76,33 +59,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.Exercice 1.html.executor": "Run",
-    "JavaScript Debug.Exercice_1_part_1.html.executor": "Run",
-    "JavaScript Debug.Exercice_2.html.executor": "Run",
-    "JavaScript Debug.Route_du_Cafe_2025.html.executor": "Run",
-    "JavaScript Debug.voiliers.php.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Node.js.Route_du_Cafe_2025_v2.js.executor": "Run",
-    "PHP Script.validation.php.executor": "Run",
-    "PHP Script.voiliers.php.executor": "Run",
-    "PHP Script.voiliers_catégories.php.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Personnel/BUT-2/Développement WEB/TP-Dev-WEB/Complement/TP-Maison/data",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.Exercice 1.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Exercice_1_part_1.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Exercice_2.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Route_du_Cafe_2025.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.voiliers.php.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.Route_du_Cafe_2025_v2.js.executor&quot;: &quot;Run&quot;,
+    &quot;PHP Script.validation.php.executor&quot;: &quot;Run&quot;,
+    &quot;PHP Script.voiliers.php.executor&quot;: &quot;Run&quot;,
+    &quot;PHP Script.voiliers_catégories.php.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Personnel/BUT-2/Développement WEB/TP-Dev-WEB/Complement/TP-Maison/data&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Personnel\BUT-2\Développement WEB\TP-Dev-WEB\Complement\TP-Maison\data" />
@@ -122,8 +105,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-PS-252.26199.163" />
-        <option value="bundled-php-predefined-a98d8de5180a-f0a8ef430dfa-com.jetbrains.php.sharedIndexes-PS-252.26199.163" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PS-252.26830.95" />
+        <option value="bundled-php-predefined-a98d8de5180a-9b563d34894c-com.jetbrains.php.sharedIndexes-PS-252.26830.95" />
       </set>
     </attachedChunks>
   </component>
@@ -157,6 +140,7 @@
       <workItem from="1765975881028" duration="205000" />
       <workItem from="1770122905347" duration="7435000" />
       <workItem from="1770493741330" duration="9553000" />
+      <workItem from="1770727208601" duration="4538000" />
     </task>
     <task id="LOCAL-00001" summary="Commit.">
       <option name="closed" value="true" />

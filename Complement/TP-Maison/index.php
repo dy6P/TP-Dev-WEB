@@ -1,12 +1,6 @@
-<?php include('ressources/head.html'); ?>
-
-<main>
-    <fieldset>
-        <legend>Authentification</legend>
-        <?php include('ressources/login.html'); ?>
-    </fieldset>
-</main>
-
-</body>
+<?php
+session_start();
+include('ressources/head.php');
+?>
+<p>BLABLA</p>
 <?php include('ressources/footer.html'); ?>
-</html>

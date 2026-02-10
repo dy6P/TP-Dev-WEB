@@ -1,4 +1,10 @@
-<?php include('ressources/head.html'); ?>
+<?php
+session_start();
+if (!isset($_SESSION["user"])) {
+    header('Location: action_deconnexion.php');
+}
+include('ressources/head.php');
+?>
 <main>
     <h2>JSON</h2>
     <h3>Liste des produits</h3>
@@ -30,7 +36,5 @@
         </tbody>
     </table>
 </main>
-</body>
-</html>
 <?php include('ressources/footer.html'); ?>
 
