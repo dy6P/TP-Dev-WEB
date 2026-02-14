@@ -76,7 +76,7 @@ table {
     border-collapse: collapse;
     width: 50%;
     min-width: 400px;
-    margin: 20px;
+    margin: 20px auto;
 }
 
 th {
@@ -100,8 +100,4 @@ tr {
 
 h2, h3 {
     margin-left: 20px;
-}
-
-aside {
-    display: block;
 }

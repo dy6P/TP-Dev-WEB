@@ -23,7 +23,7 @@ if (isset($_POST["login"], $_POST["password"])) {
         exit(0);
     }
     else {
-        header("Location: index.php");
+        header("Location: connexion.php");
         exit(1);
     }
 }

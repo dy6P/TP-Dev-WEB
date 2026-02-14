@@ -8,6 +8,10 @@ include('ressources/head.php');
 <main>
     <h2>JSON</h2>
     <h3>Liste des produits</h3>
+    <fieldset>
+        <legend>Ajouter un produit</legend>
+        <?php include('ressources/ajout.html'); ?>
+    </fieldset>
     <table>
         <tbody>
         <?php
@@ -36,11 +40,5 @@ include('ressources/head.php');
         </tbody>
     </table>
 </main>
-<aside>
-    <fieldset>
-        <legend>Ajouter un produit</legend>
-        <?php include('ressources/ajout.html'); ?>
-    </fieldset>
-</aside>
 <?php include('ressources/footer.html'); ?>
 
