@@ -42,7 +42,7 @@ else {
                 echo "<td>".$row["prixu"]."</td>";
                 echo "<td>".$row["quantite"]."</td>";
                 echo "<td>".$row["ref"]."</td>";
-                echo sprintf("<td><a href='modification.php?ref=%s'>Modifier</td>", $row["ref"]);
+                echo sprintf("<td><a href='action_modification.php?ref=%s'>Modifier</td>", $row["ref"]);
                 echo "</tr>";
             }
         }
@@ -62,7 +62,7 @@ else {
                 $stmt = mysqli_prepare($connect, $sql);
                 mysqli_stmt_bind_param($stmt, "dii", $_POST['prixu'], $_POST['quantite'], $_GET["ref"]);
                 mysqli_stmt_execute($stmt);
-                header("location:modification.php");
+                header("location:action_modification.php");
             }
         }
     }
